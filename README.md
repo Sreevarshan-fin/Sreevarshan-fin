@@ -6,23 +6,14 @@
 
 
 
----
-## About Me
-I am a Data Scientist focused on applying data analysis, statistical modeling, and machine learning to translate business problems into decision-ready insights. My work spans data exploration, model development, validation, and insight generation.
+**Data Scientist** with hands-on experience in **machine learning, deep learning, statistical analysis, and predictive modeling** using **Python and SQL**. Worked with real client datasets in **NDA-protected projects** and simulated industry datasets during a virtual internship to solve practical business problems.
 
-Alongside core data science, I work with Generative AI, including NLP, retrieval-augmented generation (RAG), and LLM-based analysis, to enhance insights and automate parts of analytical processes. I am currently exploring agentic AI and MLOps to understand how these approaches can be applied effectively in real-world analytics and machine learning contexts.
+Experienced in **data preparation, feature engineering, model training, evaluation, and deployment** to build reliable predictive models.
+
+Currently exploring **Generative AI, LLM systems, and agentic AI workflows** to develop practical AI-driven solutions.
 
 
-<div style="overflow-x:auto; width:100%; padding-bottom:12px;">
-  <table>
-    <tr>
-      <td style="min-width:1600px;">
-        <img src="assets/skills_grid_dark.svg"
-             alt="Skills & Projects" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 
 -------
