@@ -1,10 +1,11 @@
 
+----
 
 ![Banner](assets/banner.svg)
 
 ---
 
-<p align="right">
+<p align="left">
 <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
