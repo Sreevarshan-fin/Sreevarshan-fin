@@ -1,10 +1,10 @@
 ![Banner](assets/banner.svg)
 
-``
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sree-varshan-7ab463337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreevarshan.ds@gmail.com) 
 
-``
+---
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
@@ -15,8 +15,7 @@ NDA and industry-scale datasets to solve business problems. Currently exploring 
 systems, and agentic AI workflows.
 </p>
 
-
-``
+---
 
 
 <h2 align="center"> Skills </h2>
@@ -38,7 +37,7 @@ systems, and agentic AI workflows.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 
-``
+---
 
 
 <p align="center">
