@@ -4,7 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sree-varshan-7ab463337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreevarshan.ds@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=30)]
+<p align="center">
+<a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+</p>
 ---
 <h2 align="center">💫 About Me</h2>
 
