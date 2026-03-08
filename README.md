@@ -4,8 +4,10 @@
 ![Banner](assets/banner.svg)
 
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sree-varshan-7ab463337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sree-varshan-7ab463337/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/sree-varshan-7ab463337" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+</a>
 </p>
 
 
@@ -35,10 +37,8 @@ systems, and agentic AI workflows.
 <img src="https://img.shields.io/badge/Agentic%20AI-154360?style=for-the-badge">
 <img src="https://img.shields.io/badge/LangGraph-0E6655?style=for-the-badge">
 <img src="https://img.shields.io/badge/Statistics-145A32?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation-7D6608?style=for-the-badge">
 <img src="https://img.shields.io/badge/Data%20Analytics-784212?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql">
 
