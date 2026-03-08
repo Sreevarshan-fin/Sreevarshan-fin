@@ -6,8 +6,12 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreevarshan.ds@gmail.com) 
 
 <p align="center">
-<a href= "https: //linkedin.com/in/www.linkedin.com/in/sree-varshan-7ab463337">
+<a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="mailto:sreevarshan.ds@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
 </a>
 </p>
 ---
