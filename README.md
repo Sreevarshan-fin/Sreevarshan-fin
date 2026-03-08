@@ -1,5 +1,5 @@
 
-----
+
 
 ![Banner](assets/banner.svg)
 
@@ -15,7 +15,6 @@
 </a>
 </p>
 
----
 
 <h2 align="center">💫 About Me</h2>
 
