@@ -6,32 +6,18 @@
 
 
 
-**Data Scientist** with hands-on experience in **machine learning, deep learning, statistical analysis, and predictive modeling** using **Python and SQL**. Worked with real client datasets in **NDA-protected projects** and simulated industry datasets during a virtual internship to solve practical business problems.
-
-Experienced in **data preparation, feature engineering, model training, evaluation, and deployment** to build reliable predictive models.
-
-Currently exploring **Generative AI, LLM systems, and agentic AI workflows** to develop practical AI-driven solutions.
+# 💫 About Me:
+Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>predictive modeling using Python and SQL. Experienced in data preparation, feature engineering, model<br>development, and evaluation to build reliable predictive models. Worked with real client datasets under<br>NDA and industry-scale datasets to solve business problems. Currently exploring Generative AI, LLM<br>systems, and agentic AI workflows.<br><br>Technical Skills<br><br><br>Data Analysis: Pandas, NumPy, Exploratory Data Analysis, Statistical Analysis, A/B Testing<br><br>Machine Learning: Scikit-learn, Feature Engineering, Model Evaluation, Hyperparameter Tuning<br><br>Deep Learning: TensorFlow, PyTorch, CNN, YOLO, OpenCV<br><br>Natural Language Processing: Transformers (BERT), Named Entity Recognition<br><br>MLOps: AWS SageMaker, MLflow, Data Drift Monitoring<br><br>AI Systems: Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI<br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sree-varshan-7ab463337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreevarshan.ds@gmail.com) 
 
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sreevarshan-fin&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sreevarshan-fin&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevarshan-fin&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
--------
-
-##  Skills
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATISTICS-1F618D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20ENGINEERING-1ABC9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AGENTIC%20AI-6C3483?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps%20%7C%20AWS%20SageMaker-2C3E50?style=for-the-badge"/>
-
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
