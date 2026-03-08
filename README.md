@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>predictive modeling using Python and SQL. Experienced in data preparation, feature engineering, model<br>development, and evaluation to build reliable predictive models. Worked with real client datasets under<br>NDA and industry-scale datasets to solve business problems. Currently exploring Generative AI, LLM<br>systems, and agentic AI workflows.
-
 ## 🤖 AI / ML Skills
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-grey?style=flat)
@@ -13,6 +12,16 @@ Data Scientist with hands-on experience in machine learning, deep learning, stat
 ![MCP](https://img.shields.io/badge/MCP-grey?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-grey?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-grey?style=flat)
+
+---
+
+## 📊 Data Skills
+
+![Statistics](https://img.shields.io/badge/Statistics-grey?style=flat)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-grey?style=flat)
+![Automation](https://img.shields.io/badge/Automation-grey?style=flat)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-grey?style=flat)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-grey?style=flat)
 
 ---
 
