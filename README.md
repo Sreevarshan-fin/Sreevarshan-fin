@@ -5,15 +5,7 @@
 
 ---
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:sreevarshan.ds@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
-</a>
-</p>
+
 
 
 <h2 align="center">💫 About Me</h2>
