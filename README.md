@@ -3,7 +3,7 @@
 
 ![Banner](assets/banner.svg)
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
