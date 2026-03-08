@@ -1,7 +1,10 @@
 ![Banner](assets/banner.svg)
 
+``
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sree-varshan-7ab463337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreevarshan.ds@gmail.com) 
 
+``
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
@@ -13,10 +16,10 @@ systems, and agentic AI workflows.
 </p>
 
 
+``
 
 
-
-## 💻 Skills
+<h2 align="center"> Skills </h2>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1A5276?style=for-the-badge)
@@ -35,7 +38,7 @@ systems, and agentic AI workflows.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 
-## 📊 GitHub Stats:
+``
 
 
 <p align="center">
