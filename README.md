@@ -1,3 +1,5 @@
+![Banner](assets/banner.svg)
+
 # 💫 About Me:
 Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>predictive modeling using Python and SQL. Experienced in data preparation, feature engineering, model<br>development, and evaluation to build reliable predictive models. Worked with real client datasets under<br>NDA and industry-scale datasets to solve business problems. Currently exploring Generative AI, LLM<br>systems, and agentic AI workflows.<br><br>Technical Skills:<br>Data Analysis: Pandas, NumPy, Exploratory Data Analysis, Statistical Analysis, A/B Testing<br>Machine Learning: Scikit-learn, Feature Engineering, Model Evaluation, Hyperparameter Tuning<br>Deep Learning: TensorFlow, PyTorch, CNN, YOLO, OpenCV<br>Natural Language Processing: Transformers (BERT), Named Entity Recognition<br>MLOps: AWS SageMaker, MLflow, Data Drift Monitoring<br>AI Systems: Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI<br>
 
