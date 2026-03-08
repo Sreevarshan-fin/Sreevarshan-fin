@@ -10,7 +10,9 @@ Data Scientist with hands-on experience in machine learning, deep learning, stat
 ## 📊 GitHub Stats:
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreevarshan-fin&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreevarshan-fin&theme=dark&hide_border=false" />
+</p>
 
 
 
