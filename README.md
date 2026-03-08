@@ -1,3 +1,5 @@
+
+
 ![Banner](assets/banner.svg)
 
 ---
@@ -6,15 +8,14 @@
 <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-</p>
 
-<p align="center">
 <a href="mailto:sreevarshan.ds@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 </p>
 
 ---
+
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
