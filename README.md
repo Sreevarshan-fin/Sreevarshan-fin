@@ -16,4 +16,12 @@ Data Scientist with hands-on experience in machine learning, deep learning, stat
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevarshan-fin&layout=compact&theme=radical)
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Sreevarshan-fin&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sreevarshan-fin&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevarshan-fin&layout=compact&theme=radical)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
