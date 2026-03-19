@@ -1,87 +1,105 @@
-<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect width="100%" height="100%" fill="#F7F5F2"/>
+  <rect width="100%" height="100%" fill="#0B0F14"/>
 
   <!-- Header -->
-  <text x="60" y="50" font-size="12" fill="#8A8A8A" letter-spacing="2">
+  <text x="80" y="70" font-size="14" fill="#7A7A7A" letter-spacing="3">
     DATA SCIENCE &amp; AI · END-TO-END SOLUTIONS
   </text>
 
   <!-- Headline -->
-  <text x="60" y="110" font-size="52" font-family="serif" fill="#111">
-    From
-  </text>
-
-  <text x="180" y="110" font-size="52" font-family="serif" fill="#1D9E75" font-style="italic">
-    problem
-  </text>
-
-  <text x="60" y="170" font-size="52" font-family="serif" fill="#111">
-    to solution.
-  </text>
+  <text x="80" y="150" font-size="72" fill="#FFFFFF" font-family="serif">From</text>
+  <text x="260" y="150" font-size="72" fill="#1D9E75" font-style="italic" font-family="serif">problem</text>
+  <text x="80" y="240" font-size="72" fill="#FFFFFF" font-family="serif">to solution.</text>
 
   <!-- Tagline -->
-  <text x="60" y="220" font-size="18" fill="#555">
+  <text x="80" y="300" font-size="22" fill="#A0A0A0">
     Machine Learning, NLP, Generative AI, LLMs, RAG, and MLOps —
   </text>
-  <text x="60" y="245" font-size="18" fill="#555">
+  <text x="80" y="330" font-size="22" fill="#A0A0A0">
     built for scale and real business impact.
   </text>
 
   <!-- Divider -->
-  <line x1="60" y1="280" x2="840" y2="280" stroke="#DDD"/>
+  <line x1="80" y1="370" x2="1120" y2="370" stroke="#222"/>
 
   <!-- Core Expertise -->
-  <text x="60" y="320" font-size="11" fill="#8A8A8A" letter-spacing="2">
+  <text x="80" y="410" font-size="12" fill="#777" letter-spacing="2">
     CORE EXPERTISE
   </text>
 
   <!-- Tags -->
-  <g font-size="12" font-family="sans-serif">
-    <rect x="60" y="340" rx="12" ry="12" width="140" height="30" fill="#E1F5EE" stroke="#5DCAA5"/>
-    <text x="75" y="360" fill="#0F6E56">Machine Learning</text>
+  <g font-size="13">
 
-    <rect x="210" y="340" rx="12" ry="12" width="120" height="30" fill="#E6F1FB" stroke="#85B7EB"/>
-    <text x="225" y="360" fill="#185FA5">Deep Learning</text>
+    <!-- Row 1 -->
+    <rect x="80" y="430" rx="15" width="160" height="34" fill="#122A23" stroke="#1D9E75"/>
+    <text x="95" y="452" fill="#1D9E75">Machine Learning</text>
 
-    <rect x="340" y="340" rx="12" ry="12" width="110" height="30" fill="#EEEDFE" stroke="#AFA9EC"/>
-    <text x="355" y="360" fill="#534AB7">LLMs &amp; RAG</text>
+    <rect x="250" y="430" rx="15" width="140" height="34" fill="#14243A" stroke="#4A90E2"/>
+    <text x="265" y="452" fill="#4A90E2">Deep Learning</text>
 
-    <rect x="460" y="340" rx="12" ry="12" width="140" height="30" fill="#FAEEDA" stroke="#EF9F27"/>
-    <text x="475" y="360" fill="#854F0B">AWS SageMaker</text>
+    <rect x="400" y="430" rx="15" width="130" height="34" fill="#1E1B3A" stroke="#7B61FF"/>
+    <text x="415" y="452" fill="#7B61FF">LLMs &amp; RAG</text>
 
-    <rect x="610" y="340" rx="12" ry="12" width="140" height="30" fill="#FAECE7" stroke="#F0997B"/>
-    <text x="625" y="360" fill="#993C1D">Computer Vision</text>
+    <rect x="540" y="430" rx="15" width="160" height="34" fill="#3A2A14" stroke="#F5A623"/>
+    <text x="555" y="452" fill="#F5A623">AWS SageMaker</text>
+
+    <rect x="710" y="430" rx="15" width="170" height="34" fill="#3A1F1A" stroke="#F76C5E"/>
+    <text x="725" y="452" fill="#F76C5E">Computer Vision</text>
+
+    <!-- Row 2 -->
+    <rect x="80" y="480" rx="15" width="90" height="34" fill="#14243A" stroke="#4A90E2"/>
+    <text x="100" y="502" fill="#4A90E2">NLP</text>
+
+    <rect x="180" y="480" rx="15" width="130" height="34" fill="#1E1B3A" stroke="#7B61FF"/>
+    <text x="195" y="502" fill="#7B61FF">Agentic AI</text>
+
+    <rect x="320" y="480" rx="15" width="150" height="34" fill="#3A2A14" stroke="#F5A623"/>
+    <text x="335" y="502" fill="#F5A623">Python · SQL</text>
+
+    <rect x="480" y="480" rx="15" width="120" height="34" fill="#122A23" stroke="#1D9E75"/>
+    <text x="495" y="502" fill="#1D9E75">Statistics</text>
+
+    <rect x="610" y="480" rx="15" width="150" height="34" fill="#14243A" stroke="#4A90E2"/>
+    <text x="625" y="502" fill="#4A90E2">Data Analysis</text>
+
+    <rect x="770" y="480" rx="15" width="110" height="34" fill="#1E1B3A" stroke="#7B61FF"/>
+    <text x="785" y="502" fill="#7B61FF">Projects</text>
+
   </g>
 
-  <!-- Projects -->
-  <text x="60" y="400" font-size="11" fill="#8A8A8A" letter-spacing="2">
+  <!-- Projects Section -->
+  <text x="80" y="550" font-size="12" fill="#777" letter-spacing="2">
     PROJECTS DELIVERED
   </text>
 
-  <!-- Project Cards -->
-  <g font-size="13" font-family="sans-serif">
-    <rect x="60" y="420" width="180" height="90" rx="10" fill="#fff" stroke="#DDD"/>
-    <text x="75" y="450">Experimental</text>
-    <text x="75" y="470">frameworks</text>
+  <!-- Cards -->
+  <g>
+    <rect x="80" y="570" width="230" height="110" rx="12" fill="#11161C" stroke="#222"/>
+    <text x="100" y="600" fill="#FFF" font-size="14">Experimental frameworks</text>
+    <text x="100" y="630" fill="#888" font-size="12">Data-driven decision pipelines</text>
 
-    <rect x="260" y="420" width="180" height="90" rx="10" fill="#fff" stroke="#DDD"/>
-    <text x="275" y="450">ML pipelines</text>
+    <rect x="330" y="570" width="230" height="110" rx="12" fill="#11161C" stroke="#222"/>
+    <text x="350" y="600" fill="#FFF" font-size="14">ML pipelines</text>
+    <text x="350" y="630" fill="#888" font-size="12">End-to-end production systems</text>
 
-    <rect x="460" y="420" width="180" height="90" rx="10" fill="#fff" stroke="#DDD"/>
-    <text x="475" y="450">Computer Vision</text>
+    <rect x="580" y="570" width="230" height="110" rx="12" fill="#11161C" stroke="#222"/>
+    <text x="600" y="600" fill="#FFF" font-size="14">Computer Vision</text>
+    <text x="600" y="630" fill="#888" font-size="12">Deep learning at scale</text>
 
-    <rect x="660" y="420" width="180" height="90" rx="10" fill="#fff" stroke="#DDD"/>
-    <text x="675" y="450">RAG chatbots</text>
+    <rect x="830" y="570" width="230" height="110" rx="12" fill="#11161C" stroke="#222"/>
+    <text x="850" y="600" fill="#FFF" font-size="14">RAG chatbots</text>
+    <text x="850" y="630" fill="#888" font-size="12">LLM retrieval systems</text>
   </g>
 
   <!-- Footer -->
-  <text x="60" y="550" font-size="14" fill="#555">
-    Currently building AI agents and LLMOps workflows.
+  <text x="80" y="720" font-size="14" fill="#888">
+    Currently building AI agents and LLMOps workflows — scalable systems.
   </text>
 
-  <rect x="680" y="520" width="160" height="40" rx="20" fill="none" stroke="#CCC"/>
-  <text x="710" y="545" font-size="12" fill="#111">Let's connect ↗</text>
+  <rect x="900" y="700" width="200" height="40" rx="20" fill="none" stroke="#444"/>
+  <text x="930" y="725" font-size="13" fill="#FFF">Let’s connect ↗</text>
 
 </svg>
