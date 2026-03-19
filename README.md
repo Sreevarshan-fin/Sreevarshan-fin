@@ -12,6 +12,7 @@
 </a>
 </p>
 
+![Banner](assets/banner 2.svg)
 
 <h2 align="center"> About Me</h2>
 
