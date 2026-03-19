@@ -9,7 +9,7 @@
 
 -----------------------------------------
 
-<h2 align="left"> About Me</h2>
+<h2 align="left"> 🔹 About Me</h2>
 
 <p align="center">
 Built end-to-end data science and AI projects from problem definition to deployment using Python, SQL, and MLOps.
