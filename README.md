@@ -21,11 +21,9 @@
 <h2 align="center"> About Me</h2>
 
 <p align="center">
-Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>
-predictive modeling using Python and SQL. Experienced in data preparation, feature engineering, model<br>
-development, and evaluation to build reliable predictive models. Worked with real client datasets under<br>
-NDA and industry-scale datasets to solve business problems. Currently exploring Generative AI, LLM<br>
-systems, and agentic AI workflows.
+Built end-to-end data science and AI projects from problem definition to deployment using Python, SQL, and MLOps.
+Experience includes A/B testing, full ML pipelines, deep learning, computer vision, and RAG-based chatbot systems with LLM integration.
+Currently working on Agentic AI, AI agents, and LLMOps, focusing on scalable and production-oriented solutions.
 </p>
 
 ---
