@@ -15,7 +15,7 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<p align="Centre">
+<p align="centre">
 Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>
 predictive modeling using Python and SQL. Experienced in data preparation, feature engineering, model<br>
 development, and evaluation to build reliable predictive models. Worked with real client datasets under<br>
