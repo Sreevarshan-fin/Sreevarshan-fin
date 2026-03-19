@@ -1,7 +1,14 @@
 
-
+---------------------------------------
 
 ![Banner](assets/banner.svg)
+
+--------------------------------------------------------
+
+
+![Banner](assets/banner2.svg)
+
+-----------------------------------------
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
@@ -12,9 +19,7 @@
 </a>
 </p>
 
-
-![Banner](assets/banner2.svg)
-
+----------------------------------------------
 
 <h2 align="center"> About Me</h2>
 
