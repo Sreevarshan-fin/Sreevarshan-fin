@@ -13,7 +13,7 @@
 </p>
 
 
-<h2 align="left">💫 About Me</h2>
+<h2 align="left"> About Me</h2>
 
 <p align="center">
 Data Scientist with hands-on experience in machine learning, deep learning, statistical analysis, and<br>
@@ -26,7 +26,7 @@ systems, and agentic AI workflows.
 ---
 
 
-<h2 align="left"> 💫  Skills </h2>
+<h2 align="left"> Skills </h2>
 
 <p align="center">
 
