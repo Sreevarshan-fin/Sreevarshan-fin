@@ -100,6 +100,6 @@
   </text>
 
   <rect x="900" y="700" width="200" height="40" rx="20" fill="none" stroke="#444"/>
-  <text x="930" y="725" font-size="13" fill="#FFF">Let’s connect ↗</text>
+  <text x="930" y="725" font-size="13" fill="#FFF"> View My Projects ↗</text>
 
 </svg>
