@@ -1,9 +1,6 @@
 
 ![Banner](assets/banner2.svg)
 
------------------------------------------
-
-
 
 <h2 align="left">  🔸 Lets Connect </h2>
 
@@ -16,8 +13,6 @@
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
