@@ -3,13 +3,7 @@
 
 -----------------------------------------
 
-<h2 align="left">  🔸 About Me</h2>
 
-<p align="center">
-Building end-to-end data science and AI systems with Python, SQL, and MLOps. Experience in ML, deep learning, computer vision, and RAG-based LLM applications. Working on Agentic AI and scalable AI systems.
-</p>
-
----
 
 <h2 align="left">  🔸 Lets Connect </h2>
 
