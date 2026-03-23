@@ -106,7 +106,7 @@
   </g>
 
   <!-- Footer -->
-  <text x="95" y="735" font-size="14" fill="#888">
+  <text x="95" y="710" font-size="14" fill="#888">
     Currently building AI agents and LLMOps workflows for scalable, production-ready systems.
   </text>
 
