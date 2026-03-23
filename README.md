@@ -2,7 +2,7 @@
 ![Banner](assets/banner2.svg)
 
 
-<h2 align="left">  🔸 Lets Connect </h2>
+<h2 align="left">Lets Connect </h2>
 
 <p>
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
