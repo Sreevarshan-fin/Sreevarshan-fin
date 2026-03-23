@@ -16,11 +16,11 @@ Currently working on Agentic AI, AI agents, and LLMOps, focusing on scalable and
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
-    <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/> Let's connect
+    <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sreevarshan.ds@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/20/D14836/new-post.png"/> Contact
+    <img src="https://img.icons8.com/ios-filled/20/D14836/new-post.png"/> 
   </a>
 </p>
 
