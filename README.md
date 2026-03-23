@@ -11,6 +11,8 @@ Building end-to-end data science and AI systems with Python, SQL, and MLOps. Exp
 
 ---
 
+# **Lets Connect**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
     <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png"/>
