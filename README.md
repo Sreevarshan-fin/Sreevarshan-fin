@@ -13,12 +13,11 @@ Building end-to-end data science and AI systems with Python, SQL, and MLOps. Exp
 
 <h2 align="left"> 🔹 Lets Connect </h2>
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sree%20Varshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 
 
