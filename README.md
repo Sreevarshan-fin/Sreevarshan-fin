@@ -1,9 +1,3 @@
-----
-
-![Banner](assets/banner.svg)
-
-
-
 
 ![Banner](assets/banner2.svg)
 
