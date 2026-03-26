@@ -22,6 +22,8 @@ Currently learning AI Agents, Agentic AI, and LLMOps, with a focus on improving 
 
 I’m focused on strengthening my ability to build practical AI systems that can move from experimentation to real-world usage.
 
+--------------------
+
 ### ⚙️ **Skill**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,9 +38,8 @@ I’m focused on strengthening my ability to build practical AI systems that can
 ![MLOps](https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-black?style=flat&logo=amazonaws)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=powerbi)
 
+------------------
 
 ### **🔎 Lets Connect :**
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
