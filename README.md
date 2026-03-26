@@ -42,9 +42,8 @@ I’m focused on strengthening my ability to build practical AI systems that can
 ------------------
 
 ### **🔎 Lets Connect :**
-  <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
-    <img src="https://img.shields.io/badge/LinkedIn-Sree%20Varshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
 
