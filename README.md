@@ -6,11 +6,11 @@ I work across Machine Learning, NLP, and Generative AI, applying concepts to rea
 
 **What I work on:**
 
-• Building ML pipelines (data preprocessing → feature engineering 
+- Building ML pipelines (data preprocessing → feature engineering 
 → model training → evaluation)
-• Working on NLP and deep learning applications
-• Developing RAG systems using LLMs and retrieval pipelines
-• Exploring deployment and monitoring (data drift, performance tracking)
+- Working on NLP and deep learning applications
+- Developing RAG systems using LLMs and retrieval pipelines
+- Exploring deployment and monitoring (data drift, performance tracking)
 
 **Tech:** Python · SQL · Machine Learning · Deep Learning · NLP · LLMs · RAG · AWS SageMaker · Power BI
 
