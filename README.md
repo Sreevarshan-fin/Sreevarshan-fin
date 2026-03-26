@@ -17,13 +17,12 @@ I work across Machine Learning, NLP, and Generative AI, applying concepts to rea
 - Developing RAG systems using LLMs and retrieval pipelines
 - Exploring deployment and monitoring (data drift, performance tracking)
 
-**Tech:** Python · SQL · Machine Learning · Deep Learning · NLP · LLMs · RAG · AWS SageMaker · Power BI
 
 Currently learning AI Agents, Agentic AI, and LLMOps, with a focus on improving system design, deployment, and monitoring.
 
 I’m focused on strengthening my ability to build practical AI systems that can move from experimentation to real-world usage.
 
-### ⚙️ Skill 
+### ⚙️ **Skill**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,7 +34,13 @@ I’m focused on strengthening my ability to build practical AI systems that can
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-black?style=flat&logo=amazonaws)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=powerbi)
 
+
+### **🔎 Lets Connect :**
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
     <img src="https://img.shields.io/badge/LinkedIn-Sree%20Varshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
