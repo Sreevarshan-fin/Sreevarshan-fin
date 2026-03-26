@@ -1,3 +1,7 @@
+
+# Hi, I'm Sree varshan! 👋
+
+
 ### 👋 **About me**
 
 **From raw data to deployed AI systems — I build end-to-end data science projects with a focus on practical implementation beyond notebooks.**
