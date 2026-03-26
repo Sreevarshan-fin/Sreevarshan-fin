@@ -12,7 +12,7 @@ I work across Machine Learning, NLP, and Generative AI, applying concepts to rea
 **What I work on:**
 
 - Building ML pipelines (data preprocessing → feature engineering 
-→ model training → evaluation)
+→ model training → evaluation → deployment)
 - Working on NLP and deep learning applications
 - Developing RAG systems using LLMs and retrieval pipelines
 - Exploring deployment and monitoring (data drift, performance tracking)
