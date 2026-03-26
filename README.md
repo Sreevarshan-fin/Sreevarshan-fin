@@ -23,7 +23,18 @@ Currently learning AI Agents, Agentic AI, and LLMOps, with a focus on improving 
 
 I’m focused on strengthening my ability to build practical AI systems that can move from experimentation to real-world usage.
 
+### ⚙️ Skill 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=spacy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white)
 
   <a href="https://www.linkedin.com/in/sree-varshan-7ab463337">
     <img src="https://img.shields.io/badge/LinkedIn-Sree%20Varshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
