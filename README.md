@@ -58,7 +58,35 @@ Focused on building systems that are practical, reliable, and ready for real-wor
 
 
 
+## 🚀 Popular Projects
 
+<p align="center">
+
+<a href="https://github.com/your-username/MAP_Compliance_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=MAP_Compliance_Project&theme=dark" />
+</a>
+
+<a href="https://github.com/your-username/Car_Damage_Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Car_Damage_Detection&theme=dark" />
+</a>
+
+<a href="https://github.com/your-username/Bad_Debt_Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Bad_Debt_Prediction&theme=dark" />
+</a>
+
+<a href="https://github.com/your-username/Spam_BERT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Spam_BERT&theme=dark" />
+</a>
+
+<a href="https://github.com/your-username/Credit_Risk_Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Credit_Risk_Analysis&theme=dark" />
+</a>
+
+<a href="https://github.com/your-username/Healthcare_Premium">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Healthcare_Premium&theme=dark" />
+</a>
+
+</p>
 
 
 
