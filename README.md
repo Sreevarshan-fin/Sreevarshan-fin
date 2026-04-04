@@ -37,9 +37,6 @@ Focused on building systems that are practical, reliable, and ready for real-wor
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=F7931E" height="25"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square" height="25"/>
   <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" height="25"/>
