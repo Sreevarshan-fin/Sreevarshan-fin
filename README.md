@@ -10,6 +10,7 @@
 My work focuses on practical implementation beyond notebooks, applying Machine Learning, NLP, and Generative AI to real-world problems.
 
 **What I work on:**
+
 • ML pipelines (data preprocessing → feature engineering → model training → evaluation → deployment)
 • NLP and deep learning applications
 • LLM-based systems, including RAG pipelines
