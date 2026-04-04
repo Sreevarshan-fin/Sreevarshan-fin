@@ -11,13 +11,13 @@ My work focuses on practical implementation beyond notebooks, applying Machine L
 
 **What I work on:**
 
-• ML pipelines (data preprocessing → feature engineering → model training → evaluation → deployment)
-• NLP and deep learning applications
-• LLM-based systems, including RAG pipelines
-• Experimentation, evaluation, and model performance tracking
-• Deployment and monitoring using AWS SageMaker
+- ML pipelines (data preprocessing → feature engineering → model training → evaluation → deployment)
+- NLP and deep learning applications
+- LLM-based systems, including RAG pipelines
+- Experimentation, evaluation, and model performance tracking
+- Deployment and monitoring using AWS SageMaker
 
-Currently exploring:
+**Currently exploring:**
 AI Agents, Agentic AI, and LLMOps — with a focus on building scalable, production-ready systems.
 
 Focused on building systems that are practical, reliable, and ready for real-world use.
