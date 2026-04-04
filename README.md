@@ -31,29 +31,23 @@ Focused on building systems that are practical, reliable, and ready for real-wor
 
 
 <p align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=F7931E" height="25"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square" height="25"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=flat-square&logo=mlflow&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" height="25"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="25"/>
 </p>
 
 
