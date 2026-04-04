@@ -5,8 +5,6 @@
 
 ## 👋 About Me
 
-👋 About Me
-
 **I build AI systems — from raw data to production.**
 
 My work focuses on practical implementation beyond notebooks, applying Machine Learning, NLP, and Generative AI to real-world problems.
