@@ -27,7 +27,7 @@ Focused on building systems that are practical, reliable, and ready for real-wor
 
 --------------------
 
-### ⚙️ **Skill**
+## ⚙️ **Skill**
 
 
 <p align="center">
@@ -59,7 +59,7 @@ Focused on building systems that are practical, reliable, and ready for real-wor
 
 ------------------
 
-### **🔎 Lets Connect :**
+## **🔎 Lets Connect :**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
