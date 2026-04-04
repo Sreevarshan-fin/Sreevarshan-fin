@@ -3,24 +3,27 @@
 
 ------
 
-### 👋 **About me**
+## 👋 About Me
 
-**From raw data to deployed AI systems — I build end-to-end data science projects with a focus on practical implementation beyond notebooks.**
+👋 About Me
 
-I work across Machine Learning, NLP, and Generative AI, applying concepts to real datasets and use cases. My work includes building ML pipelines, developing LLM-based applications (RAG), and exploring deployment and monitoring workflows using AWS SageMaker.
+**I build AI systems — from raw data to production.**
+
+My work focuses on practical implementation beyond notebooks, applying Machine Learning, NLP, and Generative AI to real-world problems.
 
 **What I work on:**
+• ML pipelines (data preprocessing → feature engineering → model training → evaluation → deployment)
+• NLP and deep learning applications
+• LLM-based systems, including RAG pipelines
+• Experimentation, evaluation, and model performance tracking
+• Deployment and monitoring using AWS SageMaker
 
-- Building ML pipelines (data preprocessing → feature engineering 
-→ model training → evaluation → deployment)
-- Working on NLP and deep learning applications
-- Developing RAG systems using LLMs and retrieval pipelines
-- Exploring deployment and monitoring (data drift, performance tracking)
+Currently exploring:
+AI Agents, Agentic AI, and LLMOps — with a focus on building scalable, production-ready systems.
+
+Focused on building systems that are practical, reliable, and ready for real-world use.
 
 
-Currently learning AI Agents, Agentic AI, and LLMOps, with a focus on improving system design, deployment, and monitoring.
-
-I’m focused on strengthening my ability to build practical AI systems that can move from experimentation to real-world usage.
 
 --------------------
 
